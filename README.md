@@ -1,0 +1,3 @@
+#Just for fun...
+
+Learning a bit about Sinatra. :)
